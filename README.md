@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dic21
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Data Analytics
 - 🌱 I’m currently learning JavaScript
 - 📫 Feel free to reach out to me ...
 
